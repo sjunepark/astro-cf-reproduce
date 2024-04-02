@@ -17,6 +17,9 @@ dependencies:
   typescript:
     specifier: ^5.4.3
     version: 5.4.3
+  wrangler:
+    specifier: ^3.44.0
+    version: 3.44.0(@cloudflare/workers-types@4.20240329.0)
 
 packages:
 
